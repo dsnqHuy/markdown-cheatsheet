@@ -1,3 +1,4 @@
+[book](https://phamdinhkhanh.github.io/deepai-book/ch_appendix/appendix_pandas.html)
 Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
